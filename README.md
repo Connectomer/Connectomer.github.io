@@ -1,1 +1,1 @@
-# Connectomer.github.io
+# Lingustic project
